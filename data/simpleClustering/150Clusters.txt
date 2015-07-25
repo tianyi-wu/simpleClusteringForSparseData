@@ -1,0 +1,26 @@
+cluster 1, subspace: (11, 14, 17, 18, 20), dataInCluster: 257 
+cluster 2, subspace: (9, 10, 11, 17, 18), dataInCluster: 192 
+cluster 3, subspace: (11, 17, 18, 20), dataInCluster: 722 
+cluster 4, subspace: (11, 13, 17, 18), dataInCluster: 518 
+cluster 5, subspace: (9, 10, 11, 17), dataInCluster: 397 
+cluster 6, subspace: (10, 11, 17, 18), dataInCluster: 325 
+cluster 7, subspace: (9, 11, 17, 18), dataInCluster: 196 
+cluster 8, subspace: (11, 12, 17, 18), dataInCluster: 187 
+cluster 9, subspace: (11, 14, 17, 20), dataInCluster: 166 
+cluster 10, subspace: (11, 17, 18), dataInCluster: 2410 
+cluster 11, subspace: (10, 11, 17), dataInCluster: 901 
+cluster 12, subspace: (9, 11, 17), dataInCluster: 557 
+cluster 13, subspace: (11, 17, 20), dataInCluster: 479 
+cluster 14, subspace: (11, 13, 17), dataInCluster: 404 
+cluster 15, subspace: (11, 17, 21), dataInCluster: 176 
+cluster 16, subspace: (11, 18, 20), dataInCluster: 155 
+cluster 17, subspace: (11, 17), dataInCluster: 3917 
+cluster 18, subspace: (11, 18), dataInCluster: 720 
+cluster 19, subspace: (17, 18), dataInCluster: 616 
+cluster 20, subspace: (10, 17), dataInCluster: 283 
+cluster 21, subspace: (11, 20), dataInCluster: 156 
+cluster 22, subspace: (11,), dataInCluster: 1260 
+cluster 23, subspace: (17,), dataInCluster: 1126 
+cluster 24, subspace: (18,), dataInCluster: 1058 
+cluster 25, subspace: (20,), dataInCluster: 306 
+cluster 0, subspace: others, dataInCluster: 5663 (allzero: 5325, notallzero: 338 

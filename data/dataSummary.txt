@@ -1,0 +1,35 @@
+sum(np.sum(NoZeroMepsY,1) == 11)
+Out[54]: 3
+
+In [55]: sum(np.sum(NoZeroMepsY,1) == 10)
+Out[55]: 4
+
+In [56]: sum(np.sum(NoZeroMepsY,1) == 9)
+Out[56]: 13
+
+In [57]: sum(np.sum(NoZeroMepsY,1) == 8)
+Out[57]: 50
+
+In [58]: sum(np.sum(NoZeroMepsY,1) == 7)
+Out[58]: 196
+
+In [59]: sum(np.sum(NoZeroMepsY,1) == 6)
+Out[59]: 502
+
+In [60]: sum(np.sum(NoZeroMepsY,1) == 5)
+Out[60]: 1228
+
+In [61]: sum(np.sum(NoZeroMepsY,1) == 4)
+Out[61]: 2603
+
+In [62]: sum(np.sum(NoZeroMepsY,1) == 3)
+Out[62]: 4533
+
+In [63]: sum(np.sum(NoZeroMepsY,1) == 2)
+Out[63]: 5475
+
+In [64]: sum(np.sum(NoZeroMepsY,1) == 1)
+Out[64]: 3215
+
+In [65]: sum(np.sum(NoZeroMepsY,1) == 0)
+Out[65]: 5325
